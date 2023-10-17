@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Erickroman272
 - 👀 I’m an Medical student interested in data analysis 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python in data science 
+- am currently working on diabetes detection algorithm 
 - 💞️ I’m looking to collaborate on developing a medical chatbox
 - 📫 How to reach me kimarioerick272@gmail.com 
 
